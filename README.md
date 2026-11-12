@@ -23,7 +23,6 @@ RAG Assistant enables users to upload PDF documents, process their content into 
 - Streamlit
 - Google Gemini API
 - FAISS
-- LangChain (if used in the implementation)
 - Vector Search
 - Retrieval-Augmented Generation (RAG)
 
